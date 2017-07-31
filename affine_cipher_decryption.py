@@ -78,15 +78,3 @@ if a_var in range(1,26):
     decrypt(input_str)
 else:
     print (' alpha variable should be in the range 1-26')
-
-
-
-
-    
-            
-
-        
-
-
-            
-            
